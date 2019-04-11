@@ -8,4 +8,5 @@ My name is Andrew Farris. I'm a Statistics PhD with specialty in applications of
 
 ### Educational background
 Statistics PhD -- UC Davis 2018
+
 Math, Econ & Statistics -- UC Berkeley 2008
