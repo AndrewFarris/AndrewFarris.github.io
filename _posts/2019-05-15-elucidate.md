@@ -1,8 +1,9 @@
 ---
 layout: post
 title: How not to analyze data: abusing transformations
-image: /img/t3.png
+#image: /img/t3.png
 ---
+
 We're used to applying data transformations in analysis, whether it be a simple logarithmic rescaling applied to univeriate data or sophisticated preprocessing applied to complex, high-dimentional data. It is essential that we do so judiciously, without introducing bias in the process.
 
 Least we think that bad statistics is new under the sun, let's hand the mic to a sarcastic [Babbage (1830)](http://www.gutenberg.org/files/1216/1216-h/1216-h.htm):
