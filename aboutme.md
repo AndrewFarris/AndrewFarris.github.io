@@ -8,4 +8,5 @@ Welcome to my site. I'm a Statistics PhD with specialty in applications of manif
 
 ### Educational background
 Statistics PhD -- UC Davis 2018
+
 Math, Econ & Statistics BA -- UC Berkeley 2008
