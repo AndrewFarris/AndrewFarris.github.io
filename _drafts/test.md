@@ -1,6 +1,6 @@
 ---
-layout:post
-title:sup
+layout: post
+title: "sup"
 ---
 
 # Hello!
